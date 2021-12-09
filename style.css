@@ -1,0 +1,62 @@
+.container-wrapper{
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(14,174,87,1) 0%, rgba(12,116,117,1) 90% );
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-weight: bolder;
+}
+i.fas.fa-cloud.fa-4x {
+    padding: 50px 16px 0px 16px;
+    color: white;
+}
+.weather-condition-heading {
+    font-size: 50px;
+    /* font-weight: 100; */
+    font-weight: bold;
+    padding: 0px 0px 5px 0px;
+    margin: -5px 0px -10px 0px;
+}
+.location {
+    margin: 5px 0 20px 0;
+    font-size: 20px;
+}
+
+.current-temp {
+    font-size: 70px;
+    margin: -15px 0 0 0;
+}
+
+.time {
+    margin: 90px 0px 50px 85px;
+    font-size: 100px;
+}
+
+.date {
+    font-size: 30px;
+    margin: -30px 0px 0px 80px;
+}
+.humidity {
+    font-size: 30px;
+    padding: 10px;
+    margin: 10px 0 0 20px;
+}
+.air-pressure {
+    font-size: 30px;
+    padding: 10px;
+    margin: 10px 0 0 20px;
+}
+.wind-speed {
+    font-size: 30px;
+    padding: 10px;
+    margin: 10px 0 0 20px;
+}
+.chance-of-rain {
+    font-size: 30px;
+    padding: 10px;
+    margin: 10px 0 0 20px;
+}
+.row-wrapper {
+    margin: 179px 0 20px 0px;
+}
+.padding{
+    padding: 1px 0px 6px 0px;
+}
